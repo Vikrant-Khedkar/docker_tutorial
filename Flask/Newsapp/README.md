@@ -1,0 +1,3 @@
+This is news app(Webapp) To host news. It is dockerized.
+Run it using:  docker run -p 5000:5000 newsapp_app
+It is made using Flask...
