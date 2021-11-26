@@ -1,3 +1,3 @@
 This is news app(Webapp) To host news. It is dockerized.
-Run it using:  docker run -p 5000:5000 newsapp_app
+Read this : https://amazing-hound-eb9.notion.site/Create-Kubernetes-Deployment-3dab8d09d17843bb958e378f4d0342b0
 It is made using Flask...
