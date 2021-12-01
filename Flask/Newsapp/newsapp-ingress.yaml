@@ -1,0 +1,18 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: newsapp-ingress
+  
+spec:
+  rules:
+    - host: newsapp.com
+      http:
+        paths:
+          - pathType: Exact
+            path: /news
+            
+            backend:
+              service:
+                name: flask-test-service
+                port:
+                  number: 70
