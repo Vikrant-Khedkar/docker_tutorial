@@ -126,7 +126,7 @@ Read this : https://amazing-hound-eb9.notion.site/Create-Kubernetes-Deployment-3
 
 GitHub: https://github.com/Vikrant-Khedkar/docker_tutorial
 
-Requiredments:
+Requirements:
 
 - python
 - flask
