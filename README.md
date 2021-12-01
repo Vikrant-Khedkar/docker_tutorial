@@ -1,4 +1,4 @@
-#This is a news app(Webapp) To host news. It is dockerized and deployed on minikube
+# This is a news app(Webapp) To host news. It is dockerized and deployed on minikube
 Read this : https://amazing-hound-eb9.notion.site/Create-Kubernetes-Deployment-3dab8d09d17843bb958e378f4d0342b0
 # Create Kubernetes Deployment
 
